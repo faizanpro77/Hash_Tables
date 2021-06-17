@@ -6,5 +6,7 @@ bridgelabz/MyLinkedList.java
  bridgelabz.MyLinkedList
 bridgelabz/MyHashMap.java
  bridgelabz.MyHashMap
+bridgelabz/MyLinkedHashMap.java
+ bridgelabz.MyLinkedHashMap
 bridgelabz/MyNode.java
  bridgelabz.MyNode
