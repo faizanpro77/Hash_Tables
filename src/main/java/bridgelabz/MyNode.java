@@ -3,7 +3,7 @@ package bridgelabz;
 public class MyNode<T> implements INode<T>{
 
     public void printMessage() {
-        System.out.println("Welcome to the Data Structure Problem");
+        System.out.println("Welcome to the data structure problem");
     }
 
     private T data;
